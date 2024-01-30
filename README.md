@@ -2,9 +2,10 @@
   * bspwm
   * sxhkd
   * eww
+  * polybar
   * picom
   * rofi
   * dunst
-  * nitrogen
+  * feh
   * alacritty
   * thunar
