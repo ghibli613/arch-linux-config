@@ -9,3 +9,4 @@
   * feh
   * alacritty
   * thunar
+  * scrot
